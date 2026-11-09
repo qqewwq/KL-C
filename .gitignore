@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+experiment/data/
+*.psydat
+*.log
+*.bak
+# Do przekazania wyłącznie w prywatnym repozytorium, w porozumieniu z prowadzącym.
+_do_usuniecia/

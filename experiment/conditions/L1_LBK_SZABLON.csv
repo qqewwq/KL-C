@@ -1,0 +1,5 @@
+trial_id,stimulus_id,image_file,block,condition
+1,P3_OBRAZ_01,stimuli/P3_OBRAZ_01.png,1,DO_UZGODNIENIA
+2,P3_OBRAZ_02,stimuli/P3_OBRAZ_02.png,1,DO_UZGODNIENIA
+3,P3_OBRAZ_03,stimuli/P3_OBRAZ_03.png,1,DO_UZGODNIENIA
+4,P3_OBRAZ_04,stimuli/P3_OBRAZ_04.png,1,DO_UZGODNIENIA

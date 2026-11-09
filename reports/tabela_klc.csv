@@ -1,0 +1,3 @@
+nagranie,zgodnosc_pct,zgodnosc_dobra_jakosc_pct,zmiany_stanu,markery_state_n,status_n,porownane_n,gaze_poprawny_pct,gaze_zaszumiony_pct,gaze_utracony_pct,eda_poprawny_pct,eda_zaszumiony_pct,eda_utracony_pct
+clean,39.57055214723926,40.12738853503185,7,9,358,326,96.65,2.79,0.56,100.0,0.0,0.0
+noisy,18.404907975460123,6.8493150684931505,0,0,358,326,98.04,1.96,0.0,23.46,75.42,1.12
